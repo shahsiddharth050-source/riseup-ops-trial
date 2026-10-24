@@ -1,0 +1,14 @@
+{
+  "name": "RISEUP OPS",
+  "short_name": "RISEUP OPS",
+  "description": "RISEUP Shipping & Logistics — operations system",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1D6DB5",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
